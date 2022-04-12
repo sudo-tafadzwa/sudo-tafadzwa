@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @sudo-tafadzwa
-- 👀 I’m interested in Web Development with Javascript and React
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : tafurdzwa@gmail.com
-
-<!---
-sudo-tafadzwa/sudo-tafadzwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Java back end developer. I have worked with javascript 
+In the frontend. With java i use mainly frameworks like
+Springboot and databases. 
