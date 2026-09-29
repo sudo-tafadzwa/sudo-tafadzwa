@@ -12,10 +12,10 @@ Based in Harare, Zimbabwe (UTC+2). Full working-day overlap with the UK and Euro
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**ClaimFlow**](https://github.com/sudo-tafadzwa/claimflow) | Insurance claims orchestration on Camunda 8: AI document intake with confidence scores, DMN rules, human review, maker-checker payouts, compensation. 38 tests, including end-to-end on a real engine. | Camunda 8, Spring Boot, Keycloak, Next.js |
 | **Swift2Door** | On-demand delivery platform I built and ran: dispatch, live status, mobile-money payments confirmed by webhook, polling and reconciliation. | Spring Boot 4, Java 21, Postgres, Redis, WebSocket, React PWA, Docker, GCP |
 | **Zuva** | Appointment booking SaaS. A Postgres exclusion constraint makes double-booking impossible, and the customer flow is 6.9 KB with zero JavaScript. | Spring Boot, Java 21, Flyway, Next.js |
-| [**ClaimFlow**](https://github.com/sudo-tafadzwa/claimflow) | Insurance claims orchestration on Camunda 8: AI document intake with confidence scores, DMN rules, human review, maker-checker payouts, compensation. 38 tests, including end-to-end on a real engine. | Camunda 8, Spring Boot, Keycloak, Next.js |
-| **Autopaza** · [demo](https://autopaza.vercel.app) | Car-parts marketplace with an OpenAPI-first API, TOTP admin auth and chassis-code-aware search. | NestJS, Postgres, Next.js |
+| **Autopaza** · [live](https://autopaza.co.zw) | Car-parts marketplace with an OpenAPI-first API, TOTP admin auth and chassis-code-aware search. | NestJS, Postgres, Next.js |
 
 ClaimFlow is public. Source for Swift2Door and Zuva is being published over the coming weeks, with tests, CI and architecture docs.
 
